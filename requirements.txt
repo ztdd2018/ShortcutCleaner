@@ -1,0 +1,3 @@
+PyQt5>=5.15
+pywin32>=305
+requests>=2.25
